@@ -25,3 +25,12 @@ This is my first Git repository created using VS Code.
 - Understand staging and committing
 - Connect Git to GitHub
 - Practice branching and merging
+## My First Git Commit
+
+I successfully created my first local Git commit.
+
+I learned how to:
+- Initialize a Git repository.
+- Stage changes using git add.
+- Record changes using git commit.
+- Inspect commit history using git log.
