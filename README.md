@@ -26,6 +26,7 @@ This is my first Git repository created using VS Code.
 - Connect Git to GitHub
 - Practice branching and merging
 ## My First Git Commit
+This line was added directly from GitHub to practice git pull.
 
 I successfully created my first local Git commit.
 
